@@ -1,0 +1,7 @@
+clova-ocr:
+  api_uri : "https://xxxx/infer"
+  template_ids : "id"
+  version : "V2"
+  lang : "ja"
+  requestId : "guide-demo"
+  ocr-secret : "your secret"
