@@ -11,4 +11,6 @@
       SPRING_DATASOURCE_PASSWORD: rpa
     ports:
       - "PORT-NO-XXX:8080"
+    volumes:
+      - ./uploads:/uploads
 

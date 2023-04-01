@@ -10,6 +10,10 @@ fi
 if [ -d ./${TARGET} ]; then
 rm -rf ./${TARGET}
 fi
+
+if [ ! -d ./uploads ]; then
+mkdir ./uploads
+fi
 }
 
 

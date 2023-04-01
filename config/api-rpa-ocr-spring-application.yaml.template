@@ -5,3 +5,7 @@ clova-ocr:
   lang : "ja"
   requestId : "guide-demo"
   ocr-secret : "your secret"
+
+uploadfiles:
+  resource:
+    path: "/uploads"
